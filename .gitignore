@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs — created at runtime, never commit
+logs/
+*.log
+
+# Environment files — may contain secrets
+.env
+.env.*
+
+# Archives
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
