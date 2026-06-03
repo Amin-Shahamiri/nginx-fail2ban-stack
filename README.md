@@ -57,7 +57,7 @@ Node.js API  (internal only, not exposed)
 ## Quick start
 
 ```bash
-git https://github.com/Amin-Shahamiri/nginx-fail2ban-stack
+git clone https://github.com/Amin-Shahamiri/nginx-fail2ban-stack
 cd nginx-fail2ban-stack
 
 # Create logs directory
