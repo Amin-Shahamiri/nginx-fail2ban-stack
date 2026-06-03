@@ -3,8 +3,9 @@ node_modules/
 npm-debug.log*
 
 # Logs — created at runtime, never commit
-logs/
-*.log
+logs/*
+
+!logs/.gitkeep
 
 # Environment files — may contain secrets
 .env
